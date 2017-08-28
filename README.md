@@ -1,4 +1,4 @@
 Android Practice
 =================
 
-A zone luke pratice android
+A zone luke practice android
